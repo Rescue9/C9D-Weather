@@ -84,3 +84,6 @@ lint/tmp/
 
 # AndroidIDE
 .androidide
+
+# Personal API Key
+**personalapi.xml
