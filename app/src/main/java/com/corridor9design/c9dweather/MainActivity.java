@@ -18,8 +18,8 @@ public class MainActivity extends AppCompatActivity {
 		    setSupportActionBar(binding.toolbar);
 
 		    binding.fab.setOnClickListener(v ->
-          Toast.makeText(MainActivity.this, "Replace with your action", Toast.LENGTH_SHORT).show()
-        );
+            Toast.makeText(MainActivity.this, "Replace with your action", Toast.LENGTH_SHORT).show()
+            );
     }
     
     @Override
